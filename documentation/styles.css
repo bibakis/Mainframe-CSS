@@ -1,0 +1,8 @@
+h1, h2, h3, h4, h5, h6	{margin: 0.3em 0;}
+a						{text-decoration: none; color: #0000EE;}
+a:hover					{text-decoration: underline;}
+
+
+#documentation_top_menu			{float: right;}
+#documentation_top_menu a		{margin: 0 10px 0 10px;}
+#documentation_top_menu a.active	{color: #551A8B;}
